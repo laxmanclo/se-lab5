@@ -1,0 +1,10 @@
+inventory_system.py:13:1: W293 blank line contains whitespace
+inventory_system.py:21:1: W293 blank line contains whitespace
+inventory_system.py:28:1: W293 blank line contains whitespace
+inventory_system.py:36:1: W293 blank line contains whitespace
+inventory_system.py:52:1: W293 blank line contains whitespace
+inventory_system.py:55:1: W293 blank line contains whitespace
+inventory_system.py:69:1: W293 blank line contains whitespace
+inventory_system.py:86:1: W293 blank line contains whitespace
+inventory_system.py:104:1: W293 blank line contains whitespace
+inventory_system.py:107:1: W293 blank line contains whitespace
